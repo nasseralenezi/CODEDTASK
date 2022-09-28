@@ -1,4 +1,4 @@
-# Manipulating Data Task in pandas library in Python
+# Manipulating Data Task using pandas library in Python
 
 pandas is one of the most popular libraries in Python which is commonly used among data scientists. It helps us to organize 📑, clean 🧹, and analyse 🧐 the data.
 
