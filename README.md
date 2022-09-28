@@ -55,7 +55,7 @@ now go to [pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 The table should look like this after doing the task
 
-|   | Kuwait | Saudi |
+|   | Kuwait | Saudi Arabia |
 | ----------- | ----------- | ----------- |
 | 0 | Jahra | Riyadh | 
 | 1 | Hawalli | Makkah | 
