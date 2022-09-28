@@ -2,7 +2,7 @@
 
 pandas is one of the most popular libraries in Python which is commonly used among data scientists. It helps us to organize 📑, clean 🧹, and analyse 🧐 the data.
 
-One cleaning mechanism is manipulating data, one example is dropping unnecessary columns or rows
+One cleaning mechanism is manipulating data, and a good example is dropping unnecessary columns or rows
 
 
 ## Where to start?
